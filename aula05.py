@@ -1,4 +1,4 @@
-#Tipo3 de dado bool (boolean)
+#Tipo de dado bool (boolean)
 #Ao questionar algo em um programa,
 #só existem duas respostas possíveis:
 #sim (True) ou não (False).
