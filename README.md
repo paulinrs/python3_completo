@@ -1,7 +1,7 @@
 
 
 # Curso de Python 3 do Básico Ao Avançado (com projetos reais)
-## Python 3 completo - programação com Django, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos e mais.
+## [Python](https://github.com/paulinrs/python3_completo/blob/main/python.md) 3 completo - programação com Django, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos e mais.
 
 </h1>
 <h1 align="center">
